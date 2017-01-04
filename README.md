@@ -1,2 +1,2 @@
 # hello-ocean
-Iám a small living animal in this huge dimension.
+I'm a small living animal in this huge dimension.
