@@ -1,3 +1,3 @@
 # hello-ocean
 trial repository
-other  hilarious thins around.
+I'm a small living animal in this huge dimension.
